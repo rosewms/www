@@ -56,6 +56,17 @@ Current Meetups: Asia
     :region: Asia
 
 
+Current Meetups: Quorum
+---------------------
+
+The `Quorum program <https://github.com/write-the-docs-quorum/quorum-meetups>`_
+brings together various Write the Docs meetup chapters that
+are in a common time zone to provide quarterly "super"
+meetups over Zoom throughout the year.
+
+.. meetup-listing::
+    :region: Quorum
+
 Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
 
 .. toctree::
